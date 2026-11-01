@@ -89,7 +89,7 @@ The complete project documentation, including the problem statement, objectives,
 
 ## 📂 Project Structure
 
-Niche-Recommendation-System/
+niche-recommendation-system/
 ├── README.md
 ├── LICENSE
 ├── .gitignore
@@ -122,7 +122,7 @@ Niche-Recommendation-System/
 1. Clone the repository:
 
    ```
-   git clone https://github.com/minasemengesha/Niche-Recommendation-System.git
+   git clone https://github.com/minasemengesha/niche-recommendation-system.git
    cd Niche-Recommendation-System
    ```
 
