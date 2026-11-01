@@ -120,15 +120,13 @@ niche-recommendation-system/
 ### Setup
 
 1. Clone the repository:
-
-   ```
+2. 
    git clone https://github.com/minasemengesha/niche-recommendation-system.git
-   cd Niche-Recommendation-System
-   ```
+   cd niche-recommendation-system
 
-2. Open `main.java` in NetBeans, Eclipse, or another Java IDE.
+3. Open `main.java` in NetBeans, Eclipse, or another Java IDE.
 
-3. Build and run the application.
+4. Build and run the application.
 
 ### Compile Using javac
 
